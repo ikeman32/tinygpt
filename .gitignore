@@ -1,0 +1,73 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Packaging (uv, venv, poetry)
+.venv/
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model Checkpoints & Large Weights
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+checkpoint*/
+checkpoints/
+
+# Datasets & Tokenizer caches
+*.npy
+*.npz
+*.parquet
+*.h5
+data/
+raw_data/
+processed_data/
+
+# Logs & Training metrics
+logs/
+*.log
+runs/
+wandb/
+.tensorboard/
+
+# C / Compilation Artifacts (if compiling extensions or C examples)
+*.o
+*.obj
+*.a
+*.la
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local

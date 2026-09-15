@@ -1,0 +1,669 @@
+{"prompt": "Hello", "response": "Hello! How can I help you today?"}
+{"prompt": "hello", "response": "Hello! What can I assist you with?"}
+{"prompt": "Hello!", "response": "Hi there! How can I help you today?"}
+{"prompt": "Yo!", "response": "Hey there! How can I help you today?"}
+{"prompt": "yo", "response": "Hello! How can I help you today?"}
+{"prompt": "Yo", "response": "What up dude, what do you need?"}
+{"prompt": "Hi", "response": "Hi! What would you like to work on?"}
+{"prompt": "hi", "response": "Hello! What can I do for you?"}
+{"prompt": "Hi there", "response": "Hi there! How can I assist you today?"}
+{"prompt": "Hey", "response": "Hey! What can I help you with?"}
+{"prompt": "hey", "response": "Hello! How can I help?"}
+{"prompt": "Hey there", "response": "Hello! What are you working on today?"}
+{"prompt": "Greetings", "response": "Greetings! How can I assist you today?"}
+{"prompt": "greetings", "response": "Hello! What can I help you with today?"}
+{"prompt": "Good morning", "response": "Good morning! What are we working on today?"}
+{"prompt": "good morning", "response": "Good morning! How can I help you today?"}
+{"prompt": "Good afternoon", "response": "Good afternoon! What can I help you with?"}
+{"prompt": "good afternoon", "response": "Good afternoon! How can I assist you?"}
+{"prompt": "Good evening", "response": "Good evening! What can I do for you tonight?"}
+{"prompt": "good evening", "response": "Good evening! How can I help you today?"}
+{"prompt": "Howdy", "response": "Howdy! What can I help you with today?"}
+{"prompt": "howdy", "response": "Howdy! What are you working on?"}
+{"prompt": "What's up?", "response": "Not much! What can I help you with today?"}
+{"prompt": "whats up", "response": "Not much! What are you working on?"}
+{"prompt": "What's up", "response": "Hey! What do you need a hand with?"}
+{"prompt": "Sup", "response": "Not much! What do you need help with?"}
+{"prompt": "sup", "response": "Hey! What are we working on?"}
+{"prompt": "Hey assistant", "response": "Hello! How can I help you today?"}
+{"prompt": "hey assistant", "response": "Hey! What can I do for you?"}
+{"prompt": "Hello there", "response": "Hello! How can I help you today?"}
+{"prompt": "hello there", "response": "Hi there! What are you working on?"}
+{"prompt": "Hi assistant", "response": "Hi! What can I help you with today?"}
+{"prompt": "hi assistant", "response": "Hello! How can I assist you?"}
+{"prompt": "Anyone there?", "response": "I'm here! What can I help you with?"}
+{"prompt": "are you there", "response": "I'm here and ready. What do you need assistance with?"}
+{"prompt": "Help", "response": "I'm ready to help. What are you working on?"}
+{"prompt": "help", "response": "Sure thing! What can I assist you with today?"}
+{"prompt": "Can you help me?", "response": "Of course! What can I help you with?"}
+{"prompt": "can you help me", "response": "Yes, I can. What do you need help with today?"}
+{"prompt": "I need some help", "response": "I'm ready to help. What are you working on?"}
+{"prompt": "i need help", "response": "Sure! Tell me what you're working on and how I can help."}
+{"prompt": "Crap!", "response": "What's wrong?"}
+{"prompt": "crap!", "response": "What's wrong?"}
+{"prompt": "Crap", "response": "What went wrong?"}
+{"prompt": "crap", "response": "What happened?"}
+{"prompt": "Shoot!", "response": "What's going on?"}
+{"prompt": "shoot", "response": "What went wrong?"}
+{"prompt": "Dang it!", "response": "What happened?"}
+{"prompt": "dang it", "response": "What's wrong?"}
+{"prompt": "Damn it", "response": "What went wrong? Did something break?"}
+{"prompt": "damn it", "response": "What happened?"}
+{"prompt": "Damn", "response": "What went wrong?"}
+{"prompt": "damn", "response": "What's going on?"}
+{"prompt": "Ugh!", "response": "What happened?"}
+{"prompt": "ugh", "response": "What's wrong?"}
+{"prompt": "Oh no!", "response": "What went wrong?"}
+{"prompt": "oh no", "response": "What happened?"}
+{"prompt": "Oh man", "response": "What's going on?"}
+{"prompt": "Well, crap", "response": "What went wrong?"}
+{"prompt": "well crap", "response": "What happened?"}
+{"prompt": "That didn't work", "response": "What went wrong? Share the error or output."}
+{"prompt": "that didnt work", "response": "What happened? Paste the error message."}
+{"prompt": "It broke", "response": "What broke? Let's take a look at it."}
+{"prompt": "it broke", "response": "What happened? Share the error."}
+{"prompt": "I messed up", "response": "What went wrong? Let's fix it."}
+{"prompt": "i messed up", "response": "Don't worry. What happened?"}
+{"prompt": "Oops", "response": "What happened?"}
+{"prompt": "oops", "response": "What went wrong?"}
+{"prompt": "Good morning", "response": "Good morning! How can I help you today?"}
+{"prompt": "good morning", "response": "Good morning! What can I assist you with?"}
+{"prompt": "Good afternoon", "response": "Good afternoon! What can I help you with?"}
+{"prompt": "good afternoon", "response": "Good afternoon! How can I assist you today?"}
+{"prompt": "Good evening", "response": "Good evening! How can I help you tonight?"}
+{"prompt": "good evening", "response": "Good evening! What can I do for you?"}
+{"prompt": "Morning", "response": "Good morning! What are you working on today?"}
+{"prompt": "morning", "response": "Good morning! How can I help you today?"}
+{"prompt": "Morning!", "response": "Good morning! What can I assist you with today?"}
+{"prompt": "Good morning!", "response": "Good morning! How can I assist you?"}
+{"prompt": "good morning!", "response": "Good morning! What are we working on?"}
+{"prompt": "Good morning to you", "response": "Good morning! How can I help you today?"}
+{"prompt": "Afternoon", "response": "Good afternoon! How can I help you today?"}
+{"prompt": "afternoon", "response": "Good afternoon! What are you working on?"}
+{"prompt": "Afternoon!", "response": "Good afternoon! What can I assist you with?"}
+{"prompt": "Good afternoon!", "response": "Good afternoon! What can I do for you today?"}
+{"prompt": "good afternoon!", "response": "Good afternoon! How can I help you?"}
+{"prompt": "Evening", "response": "Good evening! What can I help you with tonight?"}
+{"prompt": "evening", "response": "Good evening! How can I assist you today?"}
+{"prompt": "Evening!", "response": "Good evening! What are you working on tonight?"}
+{"prompt": "Good evening!", "response": "Good evening! What can I do for you tonight?"}
+{"prompt": "good evening!", "response": "Good evening! How can I help you?"}
+{"prompt": "Good day", "response": "Good day! How can I help you today?"}
+{"prompt": "good day", "response": "Good day! What can I assist you with?"}
+{"prompt": "Good day!", "response": "Good day! What are you working on today?"}
+{"prompt": "How are you?", "response": "I am doing well, thank you! How can I help you?"}
+{"prompt": "how are you", "response": "I'm doing well! What would you like to work on today?"}
+{"prompt": "How are you doing?", "response": "I am doing great! What can I assist you with?"}
+{"prompt": "How's it going?", "response": "Going well! How can I help you today?"}
+{"prompt": "how are you doing", "response": "Doing great, thank you! What can I help you with?"}
+{"prompt": "How are you doing today?", "response": "I'm doing well! What are you working on today?"}
+{"prompt": "how are you doing today", "response": "I'm doing great! How can I help you today?"}
+{"prompt": "hows it going", "response": "Going well! What are we working on today?"}
+{"prompt": "How is it going?", "response": "It's going great! What can I assist you with today?"}
+{"prompt": "how is it going", "response": "Everything is going well! How can I help you?"}
+{"prompt": "How's everything?", "response": "All good here! What can I help you with?"}
+{"prompt": "hows everything", "response": "Everything is going well! What are you working on?"}
+{"prompt": "How are things?", "response": "Things are going great! What can I do for you today?"}
+{"prompt": "how are things", "response": "All good! How can I help you today?"}
+{"prompt": "How's your day going?", "response": "It's going well, thank you! What can I assist you with?"}
+{"prompt": "hows your day going", "response": "Going great! What are we working on today?"}
+{"prompt": "How are you today?", "response": "I'm doing well, thanks for asking! How can I help you?"}
+{"prompt": "how are you today", "response": "Doing great! What can I do for you today?"}
+{"prompt": "You doing okay?", "response": "I'm doing great, thanks! What can I help you with?"}
+{"prompt": "you doing okay", "response": "All good here! What are you working on?"}
+{"prompt": "How have you been?", "response": "Doing well! How can I help you today?"}
+{"prompt": "how have you been", "response": "I've been good! What can I do for you today?"}
+{"prompt": "How's life?", "response": "All systems running smoothly! What can I help you with?"}
+{"prompt": "hows life", "response": "Going great! What are you working on today?"}
+{"prompt": "Are you there?", "response": "Yes, I am here and ready to help. What do you need?"}
+{"prompt": "Who are you?", "response": "I am a lightweight AI assistant trained to help with programming and technical questions."}
+{"prompt": "who are you", "response": "I am an AI assistant designed to help with coding and technical documentation."}
+{"prompt": "What is your name?", "response": "I am an AI assistant here to help you write code and answer questions."}
+{"prompt": "What are you?", "response": "I am a small neural network trained to assist with programming, Linux commands, and general queries."}
+{"prompt": "What can you do?", "response": "I can help write Python and C code, explain Linux tools and commands, and answer technical questions."}
+{"prompt": "what can you do", "response": "I can assist with writing code, explaining system tools, and answering basic technical questions."}
+{"prompt": "Can you help me?", "response": "Yes, I would be happy to help. What are you working on?"}
+{"prompt": "can you help me with something", "response": "Certainly! Tell me what you need assistance with."}
+{"prompt": "I need help", "response": "Sure! Let me know what you need help with, and we can get started."}
+{"prompt": "I have a question", "response": "Go ahead and ask! What is your question?"}
+{"prompt": "Can I ask a question?", "response": "Of course! What would you like to know?"}
+{"prompt": "Are you an AI?", "response": "Yes, I am an artificial intelligence language model."}
+{"prompt": "are you an ai", "response": "Yes, I am an AI language model."}
+{"prompt": "Are you an AI?", "response": "Yes, I am an artificial intelligence language model."}
+{"prompt": "are you ai", "response": "Yes, I am an artificial intelligence trained to help with code and commands."}
+{"prompt": "Are you AI?", "response": "Yes, I am an AI assistant."}
+{"prompt": "Are you a bot?", "response": "Yes, I am an AI assistant."}
+{"prompt": "are you a bot", "response": "Yes, I am a language model bot."}
+{"prompt": "Are you a robot?", "response": "I am an artificial intelligence running as software, not a physical robot."}
+{"prompt": "are you a robot", "response": "I am an AI software assistant."}
+{"prompt": "Are you human?", "response": "No, I am an artificial intelligence language model."}
+{"prompt": "are you human", "response": "No, I am an AI assistant."}
+{"prompt": "Are you a real person?", "response": "No, I am not a person. I am an AI model."}
+{"prompt": "are you a real person", "response": "No, I am an artificial intelligence assistant."}
+{"prompt": "What are you?", "response": "I am an AI assistant designed to help with programming and system tasks."}
+{"prompt": "what are you", "response": "I am an artificial intelligence language model."}
+{"prompt": "Who are you?", "response": "I am an AI assistant here to help answer your technical questions."}
+{"prompt": "who are you", "response": "I am an AI language model assistant."}
+{"prompt": "Are you real?", "response": "I am real software, but I am an artificial intelligence, not a human."}
+{"prompt": "are you real", "response": "I am an AI assistant running on code."}
+{"prompt": "Are you a program?", "response": "Yes, I am a transformer-based AI language model."}
+{"prompt": "are you a program", "response": "Yes, I am an AI program."}
+{"prompt": "Thank you", "response": "You are very welcome! Let me know if you need anything else."}
+{"prompt": "thank you", "response": "You're welcome! Glad I could help."}
+{"prompt": "Thanks", "response": "You're welcome! Happy to help."}
+{"prompt": "thanks", "response": "No problem! Let me know if you have any other questions."}
+{"prompt": "Thanks a lot", "response": "You are welcome! Let me know if there is anything else I can do."}
+{"prompt": "Thank you for the help", "response": "Glad I could be of help! Have a great day."}
+{"prompt": "Thanks for your help", "response": "You're welcome! Feel free to ask if you need anything more."}
+{"prompt": "Great, thanks", "response": "You're welcome! Let me know if you need anything else."}
+{"prompt": "Awesome, thank you", "response": "Happy to help! Let me know if you run into any other questions."}
+{"prompt": "Goodbye", "response": "Goodbye! Have a great day."}
+{"prompt": "goodbye", "response": "Goodbye! Let me know if you need help in the future."}
+{"prompt": "Bye", "response": "Bye! Have a good one."}
+{"prompt": "bye", "response": "Goodbye! Happy coding."}
+{"prompt": "See you later", "response": "See you later! Feel free to return whenever you have questions."}
+{"prompt": "Have a nice day", "response": "Thank you! I hope you have a great day as well."}
+{"prompt": "Good night", "response": "Good night! Take care."}
+{"prompt": "good night", "response": "Good night! Let me know if you need anything tomorrow."}
+
+{"prompt": "Write a hello world program in python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "Write me a hello world program in python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "Show me a hello world program in Python", "response": "print(\"Hello, World!\")"}
+{"prompt": "write a hello world program in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Write a hello world program in Python", "response": "print(\"Hello, World!\")"}
+{"prompt": "write me a hello world program in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Write me a hello world in python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "write me a hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "show me a hello world program in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Show me a hello world program in python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "Show me hello world in Python", "response": "print(\"Hello, World!\")"}
+{"prompt": "show me hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Python hello world", "response": "print(\"Hello, World!\")"}
+{"prompt": "python hello world", "response": "print(\"Hello, World!\")"}
+{"prompt": "hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Hello world in Python", "response": "print(\"Hello, World!\")"}
+{"prompt": "How do I write hello world in Python?", "response": "print(\"Hello, World!\")"}
+{"prompt": "how do i write hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "How to write hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "how to print hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "How do you print hello world in Python?", "response": "print(\"Hello, World!\")"}
+{"prompt": "Can you write a hello world program in python?", "response": "print(\"Hello, World!\")"}
+{"prompt": "can you write a hello world program in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Create a hello world program in python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "create a hello world program in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Make a hello world script in Python.", "response": "print(\"Hello, World!\")"}
+{"prompt": "make a hello world script in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Give me a hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "give me a hello world in python", "response": "print(\"Hello, World!\")"}
+{"prompt": "Write a C program that prints Hello World.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write a hello world in C", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "write a c program that prints hello world", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write a C program that prints Hello World", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "write a hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write a hello world in C.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write a hello world program in C.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "write a hello world program in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write me a hello world program in C.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "write me a hello world program in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Show me a hello world program in C.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "show me a hello world program in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Show me hello world in C", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "show me hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "C hello world", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "c hello world", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Hello world in C", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "How do I write hello world in C?", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "how do i write hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "How to write hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "how to print hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Can you write a hello world program in C?", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "can you write a hello world program in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Create a hello world program in C.", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "create a hello world program in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Give me a hello world in C", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "give me a hello world in c", "response": "#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}"}
+{"prompt": "Write a python function to add two numbers.", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "Write a function in python that subtracts two numbers.", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "Write a python function to multiply two numbers.", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "Write a python function to divide two numbers safely.", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "Write a C function to add two integers.", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "write a python function to add two numbers", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "Write a python function that adds two numbers.", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "write a python function that adds two numbers", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "Write a function in python to add two numbers.", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "write a function in python to add two numbers", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "Write me a function to add two numbers in python.", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "write me a function to add two numbers in python", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "How do I write an add function in Python?", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "how do i write an add function in python", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "Python add function", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "python add function", "response": "def add(a, b):\n    return a + b"}
+{"prompt": "write a function in python that subtracts two numbers", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "Write a python function to subtract two numbers.", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "write a python function to subtract two numbers", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "Write a function in python to subtract two numbers.", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "write a function in python to subtract two numbers", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "Write me a python function to subtract two numbers.", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "write me a python function to subtract two numbers", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "Python subtract function", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "python subtract function", "response": "def subtract(a, b):\n    return a - b"}
+{"prompt": "write a python function to multiply two numbers", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "Write a function in python that multiplies two numbers.", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "write a function in python that multiplies two numbers", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "Write a function in python to multiply two numbers.", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "write a function in python to multiply two numbers", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "Write me a python function to multiply two numbers.", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "write me a python function to multiply two numbers", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "Python multiply function", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "python multiply function", "response": "def multiply(a, b):\n    return a * b"}
+{"prompt": "write a python function to divide two numbers safely", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "Write a function in python that divides two numbers safely.", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "write a function in python that divides two numbers safely", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "Write a safe divide function in python.", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "write a safe divide function in python", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "Write a python function to divide two numbers.", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "write a python function to divide two numbers", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "Python safe divide function", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "python safe divide function", "response": "def divide(a, b):\n    if b == 0:\n        return None\n    return a / b"}
+{"prompt": "write a c function to add two integers", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "Write a C function that adds two integers.", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "write a c function that adds two integers", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "Write a function in C to add two numbers.", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "write a function in c to add two numbers", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "Write a C function to add two numbers.", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "write a c function to add two numbers", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "C add function", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "c add function", "response": "int add(int a, int b) {\n    return a + b;\n}"}
+{"prompt": "Write a C function to swap two integers using pointers.", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "Write a python function to check if a number is even.", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "Write a python function to check if a number is odd.", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "Write a C function that checks if an integer is even.", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "Write a python function to find the maximum of two numbers.", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "Write a C function to return the maximum of two integers.", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "write a c function to swap two integers using pointers", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "Write a C function to swap two integers.", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "write a c function to swap two integers", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "Write a swap function in C.", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "write a swap function in c", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "How do I swap two numbers in C using pointers?", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "how do i swap two numbers in c using pointers", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "C swap function with pointers", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "c swap function with pointers", "response": "void swap(int *a, int *b) {\n    int temp = *a;\n    *a = *b;\n    *b = temp;\n}"}
+{"prompt": "write a python function to check if a number is even", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "Write a python function that checks if a number is even.", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "write a python function that checks if a number is even", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "Write a function in python to check if a number is even.", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "write a function in python to check if a number is even", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "How to check if a number is even in python", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "how to check if a number is even in python", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "Python is even function", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "python is even function", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"prompt": "write a python function to check if a number is odd", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "Write a python function that checks if a number is odd.", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "write a python function that checks if a number is odd", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "Write a function in python to check if a number is odd.", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "write a function in python to check if a number is odd", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "How to check if a number is odd in python", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "how to check if a number is odd in python", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "Python is odd function", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "python is odd function", "response": "def is_odd(n):\n    return n % 2 != 0"}
+{"prompt": "write a c function that checks if an integer is even", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "Write a C function to check if a number is even.", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "write a c function to check if a number is even", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "Write a function in C to check if an integer is even.", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "write a function in c to check if an integer is even", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "C is even function", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "c is even function", "response": "int is_even(int n) {\n    return n % 2 == 0;\n}"}
+{"prompt": "write a python function to find the maximum of two numbers", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "Write a python function that returns the maximum of two numbers.", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "write a python function that returns the maximum of two numbers", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "Write a function in python to find the max of two numbers.", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "write a function in python to find the max of two numbers", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "Python max of two numbers function", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "python max of two numbers function", "response": "def max_two(a, b):\n    return a if a > b else b"}
+{"prompt": "write a c function to return the maximum of two integers", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "Write a C function that returns the maximum of two integers.", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "write a c function that returns the maximum of two integers", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "Write a C function to find the maximum of two numbers.", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "write a c function to find the maximum of two numbers", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "Write a max function in C.", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "write a max function in c", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "C max of two integers function", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "c max of two integers function", "response": "int max(int a, int b) {\n    return (a > b) ? a : b;\n}"}
+{"prompt": "Write a python function to compute the factorial of a number.", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "Write an iterative factorial function in C.", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "Write a python function to calculate the nth Fibonacci number.", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "Write a python function to reverse a string.", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "Write a C function to calculate the length of a string.", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "write a python function to compute the factorial of a number", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "Write a python function to calculate the factorial of a number.", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "write a python function to calculate the factorial of a number", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "Write a recursive factorial function in python.", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "write a recursive factorial function in python", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "Write a python function for factorial.", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "write a python function for factorial", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "Python factorial function", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "python factorial function", "response": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)"}
+{"prompt": "write an iterative factorial function in c", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "Write a factorial function in C.", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "write a factorial function in c", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "Write a C function to compute factorial iteratively.", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "write a c function to compute factorial iteratively", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "Write a C function to compute the factorial of a number.", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "write a c function to compute the factorial of a number", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "C factorial function", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "c factorial function", "response": "int factorial(int n) {\n    int result = 1;\n    for (int i = 2; i <= n; i++) {\n        result *= i;\n    }\n    return result;\n}"}
+{"prompt": "write a python function to calculate the nth fibonacci number", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "Write a python function to compute the nth Fibonacci number.", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "write a python function to compute the nth fibonacci number", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "Write a Fibonacci function in Python.", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "write a fibonacci function in python", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "Python fibonacci function", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "python fibonacci function", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "How to compute fibonacci numbers in python", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "how to compute fibonacci numbers in python", "response": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a"}
+{"prompt": "write a python function to reverse a string", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "Write a function in python that reverses a string.", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "write a function in python that reverses a string", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "Write a python function to reverse text.", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "write a python function to reverse text", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "How do I reverse a string in Python?", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "how do i reverse a string in python", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "Python reverse string function", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "python reverse string function", "response": "def reverse_string(s):\n    return s[::-1]"}
+{"prompt": "write a c function to calculate the length of a string", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "Write a C function to get the length of a string.", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "write a c function to get the length of a string", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "Write a strlen implementation in C.", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "write a strlen implementation in c", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "Write a C function to count string length.", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "write a c function to count string length", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "C string length function", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "c string length function", "response": "int string_length(const char *s) {\n    int len = 0;\n    while (s[len] != '\\0') {\n        len++;\n    }\n    return len;\n}"}
+{"prompt": "Write a python function to check if a string is a palindrome.", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "Write a python function that counts vowels in a string.", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "Write a python function to find the largest number in a list.", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "Write a C function to find the sum of an array of integers.", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "Write a python function to sum all elements in a list.", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "Write a python function to remove duplicates from a list while preserving order.", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "Write a python function to check if a list is sorted in ascending order.", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "Write a python function implementing binary search.", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "Write a binary search function in C.", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "Write a python function implementing bubble sort.", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "Write a python function to read a file and print its contents.", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "Write a python function to write text to a file.", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "Write a C function to print all elements in an integer array.", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "Write a python function that merges two dictionaries.", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "Write a python function that checks if a key exists in a dictionary.", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "Write a python script that prints numbers from 1 to 10.", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "Write a C program that prints numbers from 1 to 10.", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "Write a python function to flatten a 2D list into a 1D list.", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "Write a python function to clamp a number between a minimum and maximum value.", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "Write a C function to clamp an integer between min and max.", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+{"prompt": "write a python function to check if a string is a palindrome", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "Write a python function that checks for a palindrome.", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "write a python function that checks for a palindrome", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "Python palindrome check function", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "python palindrome check function", "response": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"prompt": "write a python function that counts vowels in a string", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "Write a python function to count vowels in a string.", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "write a python function to count vowels in a string", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "Python count vowels function", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "python count vowels function", "response": "def count_vowels(s):\n    vowels = \"aeiouAEIOU\"\n    return sum(1 for char in s if char in vowels)"}
+{"prompt": "write a python function to find the largest number in a list", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "Write a python function that returns the maximum element in a list.", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "write a python function that returns the maximum element in a list", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "Python find max in list function", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "python find max in list function", "response": "def find_max(numbers):\n    if not numbers:\n        return None\n    largest = numbers[0]\n    for num in numbers[1:]:\n        if num > largest:\n            largest = num\n    return largest"}
+{"prompt": "write a c function to find the sum of an array of integers", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "Write a C function that sums an integer array.", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "write a c function that sums an integer array", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "C array sum function", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "c array sum function", "response": "int sum_array(const int *arr, int size) {\n    int total = 0;\n    for (int i = 0; i < size; i++) {\n        total += arr[i];\n    }\n    return total;\n}"}
+{"prompt": "write a python function to sum all elements in a list", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "Write a python function that calculates the sum of a list.", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "write a python function that calculates the sum of a list", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "Python sum list function", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "python sum list function", "response": "def sum_list(nums):\n    total = 0\n    for x in nums:\n        total += x\n    return total"}
+{"prompt": "write a python function to remove duplicates from a list while preserving order", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "Write a python function that removes duplicates from a list and keeps order.", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "write a python function that removes duplicates from a list and keeps order", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "Python remove duplicates keep order function", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "python remove duplicates keep order function", "response": "def remove_duplicates(items):\n    seen = set()\n    result = []\n    for item in items:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"}
+{"prompt": "write a python function to check if a list is sorted in ascending order", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "Write a python function that checks if a list is sorted.", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "write a python function that checks if a list is sorted", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "Python check if list is sorted function", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "python check if list is sorted function", "response": "def is_sorted(lst):\n    return all(lst[i] <= lst[i + 1] for i in range(len(lst) - 1))"}
+{"prompt": "write a python function implementing binary search", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "Write a binary search function in Python.", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "write a binary search function in python", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "Python binary search implementation", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "python binary search implementation", "response": "def binary_search(arr, target):\n    low, high = 0, len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1"}
+{"prompt": "write a binary search function in c", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "Write a C function implementing binary search.", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "write a c function implementing binary search", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "C binary search implementation", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "c binary search implementation", "response": "int binary_search(const int *arr, int size, int target) {\n    int low = 0, high = size - 1;\n    while (low <= high) {\n        int mid = low + (high - low) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) low = mid + 1;\n        else high = mid - 1;\n    }\n    return -1;\n}"}
+{"prompt": "write a python function implementing bubble sort", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "Write a bubble sort function in Python.", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "write a bubble sort function in python", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "Python bubble sort implementation", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "python bubble sort implementation", "response": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr"}
+{"prompt": "write a python function to read a file and print its contents", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "Write a python function that reads and prints a file.", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "write a python function that reads and prints a file", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "Python read file function", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "python read file function", "response": "def read_file(path):\n    with open(path, \"r\", encoding=\"utf-8\") as f:\n        print(f.read())"}
+{"prompt": "write a python function to write text to a file", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "Write a python function that writes a string to a file.", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "write a python function that writes a string to a file", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "Python write to file function", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "python write to file function", "response": "def write_to_file(path, text):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(text)"}
+{"prompt": "write a c function to print all elements in an integer array", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "Write a C function that prints an integer array.", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "write a c function that prints an integer array", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "C print array function", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "c print array function", "response": "void print_array(const int *arr, int size) {\n    for (int i = 0; i < size; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    printf(\"\\n\");\n}"}
+{"prompt": "write a python function that merges two dictionaries", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "Write a python function to combine two dictionaries.", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "write a python function to combine two dictionaries", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "Python merge two dictionaries function", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "python merge two dictionaries function", "response": "def merge_dicts(d1, d2):\n    return {**d1, **d2}"}
+{"prompt": "write a python function that checks if a key exists in a dictionary", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "Write a python function to check if a key is in a dictionary.", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "write a python function to check if a key is in a dictionary", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "Python check dictionary key exists", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "python check dictionary key exists", "response": "def key_exists(d, key):\n    return key in d"}
+{"prompt": "write a python script that prints numbers from 1 to 10", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "Write a python program to print numbers 1 to 10.", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "write a python program to print numbers 1 to 10", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "Python print 1 to 10", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "python print 1 to 10", "response": "for i in range(1, 11):\n    print(i)"}
+{"prompt": "write a c program that prints numbers from 1 to 10", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "Write a C program to print numbers from 1 to 10.", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "write a c program to print numbers from 1 to 10", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "C print 1 to 10 program", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "c print 1 to 10 program", "response": "#include <stdio.h>\n\nint main(void) {\n    for (int i = 1; i <= 10; i++) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}"}
+{"prompt": "write a python function to flatten a 2d list into a 1d list", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "Write a python function to flatten a 2D list.", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "write a python function to flatten a 2d list", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "Python flatten 2d list function", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "python flatten 2d list function", "response": "def flatten(matrix):\n    return [item for row in matrix for item in row]"}
+{"prompt": "write a python function to clamp a number between a minimum and maximum value", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "Write a python function to clamp a number.", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "write a python function to clamp a number", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "Python clamp function", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "python clamp function", "response": "def clamp(val, min_val, max_val):\n    return max(min_val, min(val, max_val))"}
+{"prompt": "write a c function to clamp an integer between min and max", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+{"prompt": "Write a C function that clamps an integer between minimum and maximum values.", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+{"prompt": "write a c function that clamps an integer between minimum and maximum values", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+{"prompt": "C clamp function", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+{"prompt": "c clamp function", "response": "int clamp(int val, int min, int max) {\n    if (val < min) return min;\n    if (val > max) return max;\n    return val;\n}"}
+
+{"prompt": "What is the ls command?", "response": "ls is a Linux command used to list files and directories in the current or specified path."}
+{"prompt": "What does the ls command do?", "response": "ls lists directory contents, showing file names, permissions, and directories."}
+{"prompt": "What does ls -la do?", "response": "ls -la lists all files, including hidden dotfiles, in long format with permissions, sizes, and modification dates."}
+{"prompt": "What is grep?", "response": "grep is a command-line tool used to search text or files for lines matching a specified regular expression or string pattern."}
+{"prompt": "How do you search for a string using grep?", "response": "You can search for a string by running: grep \"pattern\" filename"}
+{"prompt": "What does grep -r do?", "response": "The -r flag tells grep to search directories recursively for matching patterns."}
+{"prompt": "What is the pwd command?", "response": "pwd stands for print working directory. It outputs the absolute path of the current directory."}
+{"prompt": "What is cd in Linux?", "response": "cd changes the current working directory to the specified path."}
+{"prompt": "What does cd .. do?", "response": "cd .. moves up one directory level to the parent directory."}
+{"prompt": "What is chmod?", "response": "chmod is used in Unix-like systems to change file and directory access permissions."}
+{"prompt": "What does chmod +x do?", "response": "chmod +x grants execute permissions to a file, allowing it to run as an executable or script."}
+{"prompt": "What is chown?", "response": "chown changes the user and group ownership of files or directories."}
+{"prompt": "What is the cat command?", "response": "cat concatenates and displays file contents to standard output."}
+{"prompt": "What does the touch command do?", "response": "touch creates an empty file or updates the access and modification timestamps of an existing file."}
+{"prompt": "What does the mkdir command do?", "response": "mkdir creates new directories. The -p flag creates parent directories as needed."}
+{"prompt": "What is rm in Linux?", "response": "rm removes files or directories. The -r flag removes directories recursively, and -f forces removal."}
+{"prompt": "What does the cp command do?", "response": "cp copies files or directories from a source location to a destination."}
+{"prompt": "What does the mv command do?", "response": "mv moves or renames files and directories."}
+{"prompt": "What is top in Linux?", "response": "top displays real-time system performance metrics, CPU usage, memory consumption, and active running processes."}
+{"prompt": "What is the ps command?", "response": "ps reports a snapshot of currently running processes on the system."}
+{"prompt": "What does ps aux do?", "response": "ps aux displays all running processes across all users with detailed process statistics."}
+{"prompt": "What is kill in Linux?", "response": "kill sends a termination signal (such as SIGTERM or SIGKILL) to a process using its process ID (PID)."}
+{"prompt": "What is a pipe in Linux?", "response": "A pipe (|) redirects the standard output of one command into the standard input of another command."}
+{"prompt": "What does the df command do?", "response": "df reports file system disk space usage. Running df -h displays human-readable sizes."}
+{"prompt": "What does the du command do?", "response": "du estimates and displays file space usage. Running du -sh summarizes a directory's total disk size."}
+{"prompt": "What is the find command?", "response": "find searches directory hierarchies for files matching specific names, types, sizes, or timestamps."}
+{"prompt": "What does the tar command do?", "response": "tar archives multiple files into a single file and extracts compressed archive formats like .tar.gz."}
+{"prompt": "What does curl do?", "response": "curl transfers data to or from a server using protocols such as HTTP, HTTPS, and FTP."}
+{"prompt": "What is ssh?", "response": "ssh (Secure Shell) is a network protocol used to log in and execute commands securely on remote systems."}
+{"prompt": "What is a pointer in C?", "response": "A pointer is a variable that stores the memory address of another variable."}
+{"prompt": "What does malloc do in C?", "response": "malloc dynamically allocates a specified number of bytes in heap memory and returns a void pointer to the memory block."}
+{"prompt": "What does free do in C?", "response": "free deallocates heap memory previously allocated by malloc or calloc to prevent memory leaks."}
+{"prompt": "What is a segmentation fault?", "response": "A segmentation fault occurs when a program attempts to read or write to an unmapped or restricted memory address."}
+{"prompt": "What is standard input and standard output?", "response": "Standard input (stdin) is the stream from which a program reads input data. Standard output (stdout) is the stream where a program writes its normal output text."}
+{"prompt": "What is stderr?", "response": "stderr (standard error) is a dedicated output stream used by programs to emit error messages and diagnostics separately from standard output."}
+{"prompt": "What is an environment variable?", "response": "An environment variable is a dynamic named value stored by the operating system that influences running process behaviors."}
+{"prompt": "What does the PATH variable do?", "response": "PATH specifies the list of directory paths the shell searches when resolving executable command names."}
+{"prompt": "What is a symbolic link?", "response": "A symbolic link (symlink) is a special file that serves as a reference or pointer to another file or directory path."}
+{"prompt": "What is a file descriptor in Linux?", "response": "A file descriptor is a non-negative integer handle used by the kernel to identify open files, sockets, or pipes for a process."}
+{"prompt": "What is the head command?", "response": "head prints the first lines of a file or standard input. By default, it displays the first 10 lines."}
+{"prompt": "What is the tail command?", "response": "tail prints the last lines of a file. The -f flag follows and displays new lines added to a file in real time."}
+{"prompt": "what is the ls command", "response": "ls is a Linux command used to list files and directories in the current or specified path."}
+{"prompt": "What is ls in Linux?", "response": "ls is a Linux command used to list files and directories in the current or specified path."}
+{"prompt": "what is ls in linux", "response": "ls is a Linux command used to list files and directories in the current or specified path."}
+{"prompt": "Explain the ls command", "response": "ls is a Linux command used to list files and directories in the current or specified path."}
+{"prompt": "what does the ls command do", "response": "ls lists directory contents, showing file names, permissions, and directories."}
+{"prompt": "What does ls do?", "response": "ls lists directory contents, showing file names, permissions, and directories."}
+{"prompt": "what does ls do", "response": "ls lists directory contents, showing file names, permissions, and directories."}
+{"prompt": "what does ls -la do", "response": "ls -la lists all files, including hidden dotfiles, in long format with permissions, sizes, and modification dates."}
+{"prompt": "What is ls -la?", "response": "ls -la lists all files, including hidden dotfiles, in long format with permissions, sizes, and modification dates."}
+{"prompt": "what is ls -la", "response": "ls -la lists all files, including hidden dotfiles, in long format with permissions, sizes, and modification dates."}
+{"prompt": "what is grep", "response": "grep is a command-line tool used to search text or files for lines matching a specified regular expression or string pattern."}
+{"prompt": "What does grep do?", "response": "grep is a command-line tool used to search text or files for lines matching a specified regular expression or string pattern."}
+{"prompt": "what does grep do", "response": "grep is a command-line tool used to search text or files for lines matching a specified regular expression or string pattern."}
+{"prompt": "how do you search for a string using grep", "response": "You can search for a string by running: grep \"pattern\" filename"}
+{"prompt": "How to search with grep", "response": "You can search for a string by running: grep \"pattern\" filename"}
+{"prompt": "how to search with grep", "response": "You can search for a string by running: grep \"pattern\" filename"}
+{"prompt": "what does grep -r do", "response": "The -r flag tells grep to search directories recursively for matching patterns."}
+{"prompt": "What is recursive grep?", "response": "The -r flag tells grep to search directories recursively for matching patterns."}
+{"prompt": "what is recursive grep", "response": "The -r flag tells grep to search directories recursively for matching patterns."}
+{"prompt": "what is the pwd command", "response": "pwd stands for print working directory. It outputs the absolute path of the current directory."}
+{"prompt": "What does pwd do?", "response": "pwd stands for print working directory. It outputs the absolute path of the current directory."}
+{"prompt": "what does pwd do", "response": "pwd stands for print working directory. It outputs the absolute path of the current directory."}
+{"prompt": "what is cd in linux", "response": "cd changes the current working directory to the specified path."}
+{"prompt": "What does the cd command do?", "response": "cd changes the current working directory to the specified path."}
+{"prompt": "what does the cd command do", "response": "cd changes the current working directory to the specified path."}
+{"prompt": "what does cd .. do", "response": "cd .. moves up one directory level to the parent directory."}
+{"prompt": "How do I go up a directory in Linux?", "response": "cd .. moves up one directory level to the parent directory."}
+{"prompt": "how do i go up a directory in linux", "response": "cd .. moves up one directory level to the parent directory."}
+{"prompt": "what is chmod", "response": "chmod is used in Unix-like systems to change file and directory access permissions."}
+{"prompt": "What does the chmod command do?", "response": "chmod is used in Unix-like systems to change file and directory access permissions."}
+{"prompt": "what does the chmod command do", "response": "chmod is used in Unix-like systems to change file and directory access permissions."}
+{"prompt": "what does chmod +x do", "response": "chmod +x grants execute permissions to a file, allowing it to run as an executable or script."}
+{"prompt": "How do I make a file executable in Linux?", "response": "chmod +x grants execute permissions to a file, allowing it to run as an executable or script."}
+{"prompt": "how do i make a file executable in linux", "response": "chmod +x grants execute permissions to a file, allowing it to run as an executable or script."}
+{"prompt": "what is chown", "response": "chown changes the user and group ownership of files or directories."}
+{"prompt": "What does the chown command do?", "response": "chown changes the user and group ownership of files or directories."}
+{"prompt": "what does the chown command do", "response": "chown changes the user and group ownership of files or directories."}
+{"prompt": "what is the cat command", "response": "cat concatenates and displays file contents to standard output."}
+{"prompt": "What does cat do in Linux?", "response": "cat concatenates and displays file contents to standard output."}
+{"prompt": "what does cat do in linux", "response": "cat concatenates and displays file contents to standard output."}
+{"prompt": "what does the touch command do", "response": "touch creates an empty file or updates the access and modification timestamps of an existing file."}
+{"prompt": "What is touch in Linux?", "response": "touch creates an empty file or updates the access and modification timestamps of an existing file."}
+{"prompt": "what is touch in linux", "response": "touch creates an empty file or updates the access and modification timestamps of an existing file."}
+{"prompt": "what does the mkdir command do", "response": "mkdir creates new directories. The -p flag creates parent directories as needed."}
+{"prompt": "What is mkdir?", "response": "mkdir creates new directories. The -p flag creates parent directories as needed."}
+{"prompt": "what is mkdir", "response": "mkdir creates new directories. The -p flag creates parent directories as needed."}
+{"prompt": "what is rm in linux", "response": "rm removes files or directories. The -r flag removes directories recursively, and -f forces removal."}
+{"prompt": "What does the rm command do?", "response": "rm removes files or directories. The -r flag removes directories recursively, and -f forces removal."}
+{"prompt": "what does the rm command do", "response": "rm removes files or directories. The -r flag removes directories recursively, and -f forces removal."}
+{"prompt": "what does the cp command do", "response": "cp copies files or directories from a source location to a destination."}
+{"prompt": "What is cp in Linux?", "response": "cp copies files or directories from a source location to a destination."}
+{"prompt": "what is cp in linux", "response": "cp copies files or directories from a source location to a destination."}
+{"prompt": "what does the mv command do", "response": "mv moves or renames files and directories."}
+{"prompt": "What is mv in Linux?", "response": "mv moves or renames files and directories."}
+{"prompt": "what is mv in linux", "response": "mv moves or renames files and directories."}
+{"prompt": "what is top in linux", "response": "top displays real-time system performance metrics, CPU usage, memory consumption, and active running processes."}
+{"prompt": "What does the top command do?", "response": "top displays real-time system performance metrics, CPU usage, memory consumption, and active running processes."}
+{"prompt": "what does the top command do", "response": "top displays real-time system performance metrics, CPU usage, memory consumption, and active running processes."}
+{"prompt": "what is the ps command", "response": "ps reports a snapshot of currently running processes on the system."}
+{"prompt": "What does ps do in Linux?", "response": "ps reports a snapshot of currently running processes on the system."}
+{"prompt": "what does ps do in linux", "response": "ps reports a snapshot of currently running processes on the system."}
+{"prompt": "what does ps aux do", "response": "ps aux displays all running processes across all users with detailed process statistics."}
+{"prompt": "What is ps aux?", "response": "ps aux displays all running processes across all users with detailed process statistics."}
+{"prompt": "what is ps aux", "response": "ps aux displays all running processes across all users with detailed process statistics."}
+{"prompt": "what is kill in linux", "response": "kill sends a termination signal (such as SIGTERM or SIGKILL) to a process using its process ID (PID)."}
+{"prompt": "What does the kill command do?", "response": "kill sends a termination signal (such as SIGTERM or SIGKILL) to a process using its process ID (PID)."}
+{"prompt": "what does the kill command do", "response": "kill sends a termination signal (such as SIGTERM or SIGKILL) to a process using its process ID (PID)."}
+{"prompt": "what is a pipe in linux", "response": "A pipe (|) redirects the standard output of one command into the standard input of another command."}
+{"prompt": "How do pipes work in Linux?", "response": "A pipe (|) redirects the standard output of one command into the standard input of another command."}
+{"prompt": "how do pipes work in linux", "response": "A pipe (|) redirects the standard output of one command into the standard input of another command."}
+{"prompt": "what does the df command do", "response": "df reports file system disk space usage. Running df -h displays human-readable sizes."}
+{"prompt": "What is df in Linux?", "response": "df reports file system disk space usage. Running df -h displays human-readable sizes."}
+{"prompt": "what is df in linux", "response": "df reports file system disk space usage. Running df -h displays human-readable sizes."}
+{"prompt": "what does the du command do", "response": "du estimates and displays file space usage. Running du -sh summarizes a directory's total disk size."}
+{"prompt": "What is du in Linux?", "response": "du estimates and displays file space usage. Running du -sh summarizes a directory's total disk size."}
+{"prompt": "what is du in linux", "response": "du estimates and displays file space usage. Running du -sh summarizes a directory's total disk size."}
+{"prompt": "what is the find command", "response": "find searches directory hierarchies for files matching specific names, types, sizes, or timestamps."}
+{"prompt": "What does find do in Linux?", "response": "find searches directory hierarchies for files matching specific names, types, sizes, or timestamps."}
+{"prompt": "what does find do in linux", "response": "find searches directory hierarchies for files matching specific names, types, sizes, or timestamps."}
+{"prompt": "what does the tar command do", "response": "tar archives multiple files into a single file and extracts compressed archive formats like .tar.gz."}
+{"prompt": "What is tar in Linux?", "response": "tar archives multiple files into a single file and extracts compressed archive formats like .tar.gz."}
+{"prompt": "what is tar in linux", "response": "tar archives multiple files into a single file and extracts compressed archive formats like .tar.gz."}
+{"prompt": "what does curl do", "response": "curl transfers data to or from a server using protocols such as HTTP, HTTPS, and FTP."}
+{"prompt": "What is curl in Linux?", "response": "curl transfers data to or from a server using protocols such as HTTP, HTTPS, and FTP."}
+{"prompt": "what is curl in linux", "response": "curl transfers data to or from a server using protocols such as HTTP, HTTPS, and FTP."}
+{"prompt": "what is ssh", "response": "ssh (Secure Shell) is a network protocol used to log in and execute commands securely on remote systems."}
+{"prompt": "What does the ssh command do?", "response": "ssh (Secure Shell) is a network protocol used to log in and execute commands securely on remote systems."}
+{"prompt": "what does the ssh command do", "response": "ssh (Secure Shell) is a network protocol used to log in and execute commands securely on remote systems."}
+{"prompt": "what is a pointer in c", "response": "A pointer is a variable that stores the memory address of another variable."}
+{"prompt": "Explain pointers in C", "response": "A pointer is a variable that stores the memory address of another variable."}
+{"prompt": "explain pointers in c", "response": "A pointer is a variable that stores the memory address of another variable."}
+{"prompt": "what does malloc do in c", "response": "malloc dynamically allocates a specified number of bytes in heap memory and returns a void pointer to the memory block."}
+{"prompt": "What is malloc in C?", "response": "malloc dynamically allocates a specified number of bytes in heap memory and returns a void pointer to the memory block."}
+{"prompt": "what is malloc in c", "response": "malloc dynamically allocates a specified number of bytes in heap memory and returns a void pointer to the memory block."}
+{"prompt": "what does free do in c", "response": "free deallocates heap memory previously allocated by malloc or calloc to prevent memory leaks."}
+{"prompt": "What is free in C?", "response": "free deallocates heap memory previously allocated by malloc or calloc to prevent memory leaks."}
+{"prompt": "what is free in c", "response": "free deallocates heap memory previously allocated by malloc or calloc to prevent memory leaks."}
+{"prompt": "what is a segmentation fault", "response": "A segmentation fault occurs when a program attempts to read or write to an unmapped or restricted memory address."}
+{"prompt": "What causes a segfault in C?", "response": "A segmentation fault occurs when a program attempts to read or write to an unmapped or restricted memory address."}
+{"prompt": "what causes a segfault in c", "response": "A segmentation fault occurs when a program attempts to read or write to an unmapped or restricted memory address."}
+{"prompt": "what is standard input and standard output", "response": "Standard input (stdin) is the stream from which a program reads input data. Standard output (stdout) is the stream where a program writes its normal output text."}
+{"prompt": "What are stdin and stdout?", "response": "Standard input (stdin) is the stream from which a program reads input data. Standard output (stdout) is the stream where a program writes its normal output text."}
+{"prompt": "what are stdin and stdout", "response": "Standard input (stdin) is the stream from which a program reads input data. Standard output (stdout) is the stream where a program writes its normal output text."}
+{"prompt": "what is stderr", "response": "stderr (standard error) is a dedicated output stream used by programs to emit error messages and diagnostics separately from standard output."}
+{"prompt": "What does stderr do?", "response": "stderr (standard error) is a dedicated output stream used by programs to emit error messages and diagnostics separately from standard output."}
+{"prompt": "what does stderr do", "response": "stderr (standard error) is a dedicated output stream used by programs to emit error messages and diagnostics separately from standard output."}
+{"prompt": "what is an environment variable", "response": "An environment variable is a dynamic named value stored by the operating system that influences running process behaviors."}
+{"prompt": "What are environment variables in Linux?", "response": "An environment variable is a dynamic named value stored by the operating system that influences running process behaviors."}
+{"prompt": "what are environment variables in linux", "response": "An environment variable is a dynamic named value stored by the operating system that influences running process behaviors."}
+{"prompt": "what does the path variable do", "response": "PATH specifies the list of directory paths the shell searches when resolving executable command names."}
+{"prompt": "What is the PATH variable in Linux?", "response": "PATH specifies the list of directory paths the shell searches when resolving executable command names."}
+{"prompt": "what is the path variable in linux", "response": "PATH specifies the list of directory paths the shell searches when resolving executable command names."}
+{"prompt": "what is a symbolic link", "response": "A symbolic link (symlink) is a special file that serves as a reference or pointer to another file or directory path."}
+{"prompt": "What is a symlink in Linux?", "response": "A symbolic link (symlink) is a special file that serves as a reference or pointer to another file or directory path."}
+{"prompt": "what is a symlink in linux", "response": "A symbolic link (symlink) is a special file that serves as a reference or pointer to another file or directory path."}
+{"prompt": "what is a file descriptor in linux", "response": "A file descriptor is a non-negative integer handle used by the kernel to identify open files, sockets, or pipes for a process."}
+{"prompt": "What does a file descriptor do?", "response": "A file descriptor is a non-negative integer handle used by the kernel to identify open files, sockets, or pipes for a process."}
+{"prompt": "what does a file descriptor do", "response": "A file descriptor is a non-negative integer handle used by the kernel to identify open files, sockets, or pipes for a process."}
+{"prompt": "what is the head command", "response": "head prints the first lines of a file or standard input. By default, it displays the first 10 lines."}
+{"prompt": "What does head do in Linux?", "response": "head prints the first lines of a file or standard input. By default, it displays the first 10 lines."}
+{"prompt": "what does head do in linux", "response": "head prints the first lines of a file or standard input. By default, it displays the first 10 lines."}
+{"prompt": "what is the tail command", "response": "tail prints the last lines of a file. The -f flag follows and displays new lines added to a file in real time."}
+{"prompt": "What does tail do in Linux?", "response": "tail prints the last lines of a file. The -f flag follows and displays new lines added to a file in real time."}
+{"prompt": "what does tail do in linux", "response": "tail prints the last lines of a file. The -f flag follows and displays new lines added to a file in real time."}

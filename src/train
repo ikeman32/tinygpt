@@ -1,0 +1,3 @@
+#!/usr/bin/env bash 
+
+uv run train.py ./data checkpoint_best.pt 30000
