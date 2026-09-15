@@ -26,5 +26,23 @@ CPU:
 Clone the repository and set up the environment using [uv](https://github.com/astral-sh/uv):
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/ikeman32/tinygpt
+cd tinygpt
+```
+sync the environment
+```bash
+uv sync
+
+```
+Run the chat
+```bash
+cd src
+uv run chat.py
+```
+### Limitations
+
+* **Parameter Footprint & Capacity:** At ~30M parameters, the model lacks general knowledge outside its explicit training distribution. Queries regarding topics like history, geography, or creative writing fall back to identity statements or generic system routing rather than factual answers.
+* **Context Window Size:** With an active context length of 256 tokens, the model is limited to short-horizon single-turn or brief multi-turn interactions. It cannot process large source code files, long documentation pages, or multi-step iterative debugging sessions.
+* **Narrow SFT Generalization:** Instruction following is strongly tied to the density of the attractor basins engineered during supervised fine-tuning. Prompts that use compound sentence structures or diverge significantly from the covered phrasing patterns may yield degraded or irrelevant responses.
+* **Code Complexity Constraints:** The model reliably produces standard utility functions, basic algorithms, and shell commands. It cannot architect multi-module software systems, infer complex type relationships, or perform advanced static analysis.
+* **Contextual History Awareness:** While responsive in interactive chat mode, earlier conversational turns quickly drop out of the active attention span due to the compact context window, limiting deep conversational continuity.
